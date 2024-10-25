@@ -3,7 +3,7 @@
 ## Project Overview
 This project focuses on building a data pipeline and performing analysis on football player data. The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/maso0dahmed/football-players-data) and contains information on player attributes, performance metrics, and financial details. The goal of this project is to process, clean, store, and analyze this data using Python and MySQL.
 
-![image](<img width="658" alt="Screenshot 2024-10-25 at 15 29 30" src="https://github.com/user-attachments/assets/1e2c5a12-5dcc-42b9-a430-51bc2bd99d67">)
+![Data Architechture](https://github.com/ykabir19/Data-Engineering/blob/main/Football_Data_Project/Data%20Architechture.png)
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)

@@ -21,6 +21,7 @@ This project focuses on building a data pipeline and performing analysis on foot
 
 
 ## Database Design and Schema
+![Schema](https://github.com/ykabir19/Data-Engineering/blob/main/Football_Data_Project/schema.png)
 ### Methodology
 The database design for this project is based on a relational model, ensuring efficient data organization, minimal redundancy, and optimized querying capabilities. The following design principles guided the schema structure:
 - Normalization: Data was split into logical tables to reduce redundancy and ensure consistency. By adhering to 3rd Normal Form (3NF), each piece of information is stored only once, and tables are connected via foreign key relationships.
